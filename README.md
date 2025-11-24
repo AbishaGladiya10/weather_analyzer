@@ -1,5 +1,5 @@
 
-# Weather Analyzer – Python Project
+# Weather Analyzer 
 
 ## 📌 Overview
 Weather Analyzer is a simple Python program that allows users to:
